@@ -11,7 +11,11 @@ Hypothesis 3
 Hypothesis 4
 etc.}
 
-Please write a research paper outline that includes an Introduction, Literature Review, Theoretical Framework, Empirical Strategy, Results, Discussion and any other relevant sections. The outline must include the model, equations and potential datasets to be used to test the hypotheses, where applicable. The outline should include case study examples where applicable. 
+Please write a research paper outline that includes the follwoing sections:
+
+{Introduction, Section 1, Section 2, etc.}
+
+The outline must include the model, equations and potential datasets to be used to test the hypotheses, where applicable. The outline should include case study examples where applicable. 
 
 Example Text: 
 
