@@ -1,7 +1,8 @@
 # Pompt-Engineering-Ideas
-#Prompt-Engineering-Ideas
+
 
 1. Research Outline
+
 Act as a researcher studying {topic}. You are writing a research paper on the topic of {topic / subtopic}. Your research will explore the following {#} hypotheses using {research method} method:
 
 {Hypothesis 1:
